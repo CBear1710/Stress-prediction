@@ -1,0 +1,25 @@
+Low case
+{
+    "HR": 72,
+    "respr": 16,
+    "Hour": 14,
+    "Previous_HR": 71
+}
+
+
+High case
+{
+    "HR": 110,
+    "respr": 22,
+    "Hour": 15,
+    "Previous_HR": 105
+}
+
+Borderline
+{
+    "HR": 85,
+    "respr": 18,
+    "Hour": 20,
+    "Previous_HR": 84
+}
+
